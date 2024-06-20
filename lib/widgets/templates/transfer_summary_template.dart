@@ -94,7 +94,7 @@ class TransferSummaryTemplate extends StatelessWidget {
             ),
             const Spacer(),
             RoundedButton(
-              text: 'Confirm',
+              label: 'Confirm',
               onPressed: () {},
             ),
           ],
